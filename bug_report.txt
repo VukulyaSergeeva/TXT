@@ -1,1 +1,14 @@
-
+Bug report
+id 13
+Enviroment:Windows 11 Pro x64 22H2, Chrome Версия 112.0
+Title: Error 404 "Page Not Found"
+ is displayed after cliking link[About Capital]
+Steps to reproduce:
+  1. Navigate to capita.com
+  2.Scroll down to the fotter
+  3.Click menu title [About Capital]
+  4.Scroll through the rewaeds carousel
+  5.Click ward  "Best Trading Features 2020"
+Expected result:Conect of the page is displayed 
+Actual result:Error 404 is displayed of the page 
+Bug started: @Victoria_Sergeeva
